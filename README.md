@@ -66,11 +66,7 @@ To view the map, open the `index.html` file in your web browser.
 
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-## License
+## References
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- USGS for providing the earthquake data.
-- Leaflet for the mapping library.
+- Dataset created by the United States Geological Survey.
+- © 2024 edX Boot Camps LLC
